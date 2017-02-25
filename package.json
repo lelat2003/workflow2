@@ -1,0 +1,25 @@
+{
+  "name": "workflow2",
+  "version": "1.0.0",
+  "description": "mY sECOND mODERN wEB dEV wORKFLOW pROJECT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelat2003/workflow2.git"
+  },
+  "keywords": [
+    "Npm",
+    "Git",
+    "Gulp",
+    "Sass"
+  ],
+  "author": "T.R.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lelat2003/workflow2/issues"
+  },
+  "homepage": "https://github.com/lelat2003/workflow2#readme"
+}
